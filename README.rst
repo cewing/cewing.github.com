@@ -16,4 +16,5 @@ Contact
 Standard Courses
 ================
 
-* Internet Programming with Python
+* `Internet Programming with Python
+  <http://cewing.github.com/training.python_web/>`_ (work in progress)
